@@ -8,10 +8,10 @@ for ai competion
 
 
 
-<img width="640" height="479" alt="image" src="https://github.com/user-attachments/assets/842e716a-de1c-4cb2-9f7b-f4a126407b82" />
+<img width="456" height="200" alt="image" src="https://github.com/user-attachments/assets/842e716a-de1c-4cb2-9f7b-f4a126407b82" />
 
 
-<img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/7b0f6705-a6a6-40fd-a6eb-7387320ade33" />
+<img width="456" height="200" alt="image" src="https://github.com/user-attachments/assets/7b0f6705-a6a6-40fd-a6eb-7387320ade33" />
 
 ###############################################################################
 #              HOMINGO  HACK COMPETETION                                     #
@@ -19,7 +19,7 @@ for ai competion
 
 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6ad33170-ed56-48b6-86a5-d97713044ff4" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6ad33170-ed56-48b6-86a5-d97713044ff4" />
 
 
 
@@ -63,7 +63,7 @@ for ai competion
 ##############################################################################
 
 
-<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/a6a3bdb3-0942-4960-9de7-05e33e07252a" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a6a3bdb3-0942-4960-9de7-05e33e07252a" />
 
 
 
