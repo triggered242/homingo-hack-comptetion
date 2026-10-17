@@ -19,7 +19,7 @@ def speak(text):
 conn = sqlite3.connect("REXXY_memory.db")
 cursor = conn.cursor()
 
-# create memory table
+
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS memory(
 question TEXT PRIMARY KEY,
@@ -204,23 +204,23 @@ def brain(cmd):
         speak ("opening services")
         os.system("services.msc")
         return "services opened"
-        # ---- MATHEMATICAL CALCULATIONS ----
+        
     if any(word in cmd for word in ["calculate", "+", "-", "*", "/", "add", "subtract", "multiply", "divide"]):
         try:
-            # Clean up words to make it readable by Python's eval
+            
             calc_cmd = cmd.replace("calculate", "")
             calc_cmd = calc_cmd.replace("add", "+").replace("plus", "+")
             calc_cmd = calc_cmd.replace("subtract", "-").replace("minus", "-")
             calc_cmd = calc_cmd.replace("multiply", "*").replace("times", "*")
             calc_cmd = calc_cmd.replace("divide", "/").replace("divided by", "/")
             
-            # Remove any unwanted alphabetic characters, leaving only math tokens
+            
             filtered_chars = "".join(c for c in calc_cmd if c in "0123456789+-*/.() ")
             
-            # Evaluate the safe math string
+            
             if filtered_chars.strip():
                 result = eval(filtered_chars)
-                # Format to remove unnecessary decimal zeros (e.g., 5.0 -> 5)
+                
                 if isinstance(result, float) and result.is_integer():
                     result = int(result)
                 
