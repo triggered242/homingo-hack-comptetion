@@ -9,6 +9,9 @@ for ai competion
 https://files.catbox.moe/tc82wv.png
 
 
+<img width="250" height="148" alt="image" src="https://github.com/user-attachments/assets/https://files.catbox.moe/tc82wv.png
+" />
+
 
 
 
