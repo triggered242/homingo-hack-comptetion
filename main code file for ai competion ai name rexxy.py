@@ -98,7 +98,7 @@ def brain(cmd):
 
     
     if "who created you" in cmd:
-        return "My creator is Aashish tripath team unwanted ."
+        return "My creator is Aashish tripath team unwanted a AI AND ML ENGENNIER WITH PENTESTING AND SOC ANALYST."
 
     
     if "taj mahal" in cmd:
